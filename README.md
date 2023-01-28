@@ -33,4 +33,4 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
-![](https://github.com/Romera14/hw_docker_nginx_ELK/blob/main/название%20кластера.png)
+![](https://github.com/Romera14/hw_docker_nginx_ELK/blob/main/fiebeats%20logs.png)
